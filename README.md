@@ -23,4 +23,4 @@ It can be used as a personal developer card or added to a portfolio website.
 - Font Awesome
 
 # Output
-![Output](image/profilecard.png.png)
+![Output](image/profilecard.png)
